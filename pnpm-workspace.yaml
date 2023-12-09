@@ -1,0 +1,3 @@
+packages:
+  - tracing-otel
+  - tracing-sentry
